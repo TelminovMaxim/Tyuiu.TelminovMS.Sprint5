@@ -10,10 +10,10 @@ namespace Tyuiu.TelminovMS.Sprint5.Task1.V22
 
             Console.Title = "Спринт #4 | Выполнил: Тельминов М. С. | ИСТНб-26-1";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #4                                                               *");
+            Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Класс File                                                        *");
-            Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #3                                                              *");
+            Console.WriteLine("* Задание #1                                                              *");
+            Console.WriteLine("* Вариант #22                                                             *");
             Console.WriteLine("* Выполнил: Тельминов Максим Сергеевич | ИСТНб-26-1                       *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
