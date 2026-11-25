@@ -9,4 +9,9 @@
     <Project Path="Tyuiu.TelminovMS.Sprint5.Task1.V22.Test/Tyuiu.TelminovMS.Sprint5.Task1.V22.Test.csproj" Id="e16238f2-00f0-41b1-8829-71bf71da8bef" />
     <Project Path="Tyuiu.TelminovMS.Sprint5.Task1.V22/Tyuiu.TelminovMS.Sprint5.Task1.V22.csproj" Id="6125dab1-61ba-4300-8054-8f64c72e4933" />
   </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.TelminovMS.Sprint5.Task2.V1.Lib/Tyuiu.TelminovMS.Sprint5.Task2.V1.Lib.csproj" Id="efde9085-7fa7-45c2-bbe8-e09b2d9c6b39" />
+    <Project Path="Tyuiu.TelminovMS.Sprint5.Task2.V1.Test/Tyuiu.TelminovMS.Sprint5.Task2.V1.Test.csproj" Id="ade50802-2ba2-4361-880f-0278ad03ab07" />
+    <Project Path="Tyuiu.TelminovMS.Sprint5.Task2.V1/Tyuiu.TelminovMS.Sprint5.Task2.V1.csproj" Id="7a7730a4-eeac-400b-8618-b547d1abfa0b" />
+  </Folder>
 </Solution>
